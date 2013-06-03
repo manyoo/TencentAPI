@@ -1,0 +1,16 @@
+{
+  "name": "tencentapi",
+  "version": "0.0.1",
+  "description": "A simple Node.js client library for the Tencent APIs",
+  "main": "tencentapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "API",
+    "Tencent"
+  ],
+  "author": "Eric Wong",
+  "license": "BSD"
+}
